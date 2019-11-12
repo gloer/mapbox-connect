@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mapbox-connect/static/css/main.39c3be40.chunk.css",
+    "main.js": "/mapbox-connect/static/js/main.1b540ae2.chunk.js",
+    "main.js.map": "/mapbox-connect/static/js/main.1b540ae2.chunk.js.map",
+    "runtime-main.js": "/mapbox-connect/static/js/runtime-main.efd6c590.js",
+    "runtime-main.js.map": "/mapbox-connect/static/js/runtime-main.efd6c590.js.map",
+    "static/css/2.d9a8a5a7.chunk.css": "/mapbox-connect/static/css/2.d9a8a5a7.chunk.css",
+    "static/js/2.e622b811.chunk.js": "/mapbox-connect/static/js/2.e622b811.chunk.js",
+    "static/js/2.e622b811.chunk.js.map": "/mapbox-connect/static/js/2.e622b811.chunk.js.map",
+    "index.html": "/mapbox-connect/index.html",
+    "precache-manifest.fc13f1ac546fcb4b0a4a85de41adb6b5.js": "/mapbox-connect/precache-manifest.fc13f1ac546fcb4b0a4a85de41adb6b5.js",
+    "service-worker.js": "/mapbox-connect/service-worker.js",
+    "static/css/2.d9a8a5a7.chunk.css.map": "/mapbox-connect/static/css/2.d9a8a5a7.chunk.css.map",
+    "static/css/main.39c3be40.chunk.css.map": "/mapbox-connect/static/css/main.39c3be40.chunk.css.map",
+    "static/media/marker.svg": "/mapbox-connect/static/media/marker.173391a4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efd6c590.js",
+    "static/css/2.d9a8a5a7.chunk.css",
+    "static/js/2.e622b811.chunk.js",
+    "static/css/main.39c3be40.chunk.css",
+    "static/js/main.1b540ae2.chunk.js"
+  ]
+}
